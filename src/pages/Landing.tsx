@@ -79,7 +79,7 @@ export function Landing() {
             className="mb-6"
           >
             <h1 className="font-display text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight text-fg leading-[1.06] text-balance">
-              <span className="block text-gradient-accent">Design and Implementation of a Smart Attendance System Management</span>
+              <span className="block text-gradient-accent">Design and Implementation of a Smart Attendance Management System </span>
             </h1>
             <p className="mt-5 text-[11px] md:text-sm text-fg-dim uppercase tracking-[0.16em] font-medium leading-relaxed max-w-4xl mx-auto">
               By Adaramola Oluwatimilehin Samuel &amp; Adebiyi Torheeb Olamilekan
